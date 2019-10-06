@@ -1,2 +1,4 @@
 # tmp
-A dummy repo to try/test the features of GIT &amp; Github
+
+A dummy repo to try/test the features of git &amp; Github
+HOLA
